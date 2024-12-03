@@ -9,5 +9,9 @@
   "author": "Alfredo Dumaine",
   "license": "ISC",
   "description": "",
-  "bin": "./cli.js"
+  "bin": "./cli.js",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "prettyjson": "^1.2.5"
+  }
 }
